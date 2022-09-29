@@ -1,4 +1,4 @@
-package main
+package leetcode
 
 type MyCircularQueue struct {
 	data []int

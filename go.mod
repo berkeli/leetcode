@@ -1,4 +1,4 @@
-module circular-queue
+module leetcode
 
 go 1.19
 
